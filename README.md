@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
-- :telescope: I’m working as a Software Engineer (mainly Java - Spring - ReactJS/NextJS).
+- :telescope: I’m working mainly with Java (Spring) and ReactJS/NextJS.
 
 - :seedling: Always exploring new features from Java with Spring Framework.
 
