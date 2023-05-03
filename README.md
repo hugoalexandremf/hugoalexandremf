@@ -27,7 +27,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://www.dariawan.com/media/images/tech-spring-security.width-1024.png" title=Spring Security" alt="Spring Security" width="120" height="40"/>&nbsp;
   <img src="https://hugoalexandremf.com/images/springDataJPA.png" title=Spring Data JPA" alt="Spring Data JPA" width="120" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="ReactJS" width="50" height="50"/>&nbsp;
-  <img src="https://openid.net/wordpress-content/uploads/2011/09/OPENID_CONNECT_NEW-Logo.jpg" title="OpenIDConnect" alt="OpenIDConnect" width="100" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/OpenID_logo.svg/2560px-OpenID_logo.svg.png" title="OpenIDConnect" alt="OpenIDConnect" width="130" height="50"/>&nbsp;
   <img src="https://hugoalexandremf.com/images/oauth2.png" title="OAuth2" alt="OAuth2" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
