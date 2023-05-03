@@ -27,7 +27,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://www.dariawan.com/media/images/tech-spring-security.width-1024.png" title=Spring Security" alt="Spring Security" width="120" height="40"/>&nbsp;
   <img src="https://hugoalexandremf.com/images/springDataJPA.png" title=Spring Data JPA" alt="Spring Data JPA" width="120" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="ReactJS" width="50" height="50"/>&nbsp;
-  <img src="https://hugoalexandremf.com/images/oauth2.png" title="OAuth2" alt="OAuth2" width="40" height="40"/>&nbsp;
+  <img src="https://hugoalexandremf.com/images/oauth2.png" title="OAuth2" alt="OAuth2" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
