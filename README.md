@@ -11,8 +11,12 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
-- :telescope: I’m working mainly with Java (Spring) and ReactJS/NextJS.
+I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
+- :telescope: Working mainly with Java (Spring) and ReactJS/NextJS.
+
+- :mortar_board: Computer Science Graduated @ Universidade do Minho (Braga, Portugal) :earth_africa::round_pushpin:.
+
+- :mortar_board: Master's Degree in Business Intelligence, Applications Engineering & Software Systems Engineering @ Universidade do Minho (Braga, Portugal) :earth_africa::round_pushpin:.
 
 - :seedling: Always exploring new features from Java with Spring Framework.
 
