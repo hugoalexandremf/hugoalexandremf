@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
-- :telescope: Working mainly with Java (Spring) and ReactJS/NextJS.
+- :telescope: Working mainly with Kotlin (with Micronaut), Java (with Spring) and ReactJS/NextJS.
 
 - :mortar_board: Computer Science Graduated @ Universidade do Minho (Braga, Portugal) :earth_africa::round_pushpin:.
 
